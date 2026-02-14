@@ -1,10 +1,3 @@
-## Hi! I'm Ana Júlia
-
-🎓 Em formação técnica em **Análise e Desenvolvimento de Sistemas** pelo SENAI Suiço-Brasileiro.
-
-💡 Focada em desenvolver soluções tecnológicas eficientes e inovadoras.
-
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>

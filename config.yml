@@ -14,9 +14,9 @@ username: anajulia-v
 
 # Profile information displayed in the galaxy header
 profile:
-  name: ""
-  tagline: ""
-  philosophy: ''
+  name: "Ana Júlia"
+  tagline: "Systems Analysis Student | Data Enthusiast"
+  philosophy: '"Technology is a tool to understand and transform the world."'
 
 # Social links displayed at the bottom of the profile
 social:
