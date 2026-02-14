@@ -14,9 +14,9 @@ username: anajulia-v
 
 # Profile information displayed in the galaxy header
 profile:
-  # name: "Nyx Orion"
-  # tagline: "Full Stack Developer & Open Source Explorer"
-  # philosophy: '"The best code is the code that empowers others."'
+  name: ""
+  tagline: ""
+  philosophy: ''
 
 # Social links displayed at the bottom of the profile
 social:
