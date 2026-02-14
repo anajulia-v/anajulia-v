@@ -44,7 +44,7 @@ galaxy_arms:
     color: "axon_amber"
     items:
       - "Java"
-      - "Javascript"
+      - "JavaScript"
       - "React Native"
 
 # Featured projects shown as constellation stars
@@ -53,11 +53,11 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "https://github.com/anajulia-v/SpotOn.git"
-    arm: 3
+  - repo: "anajulia-v/SpotOn"
+    arm: 2
     description: "Sistema de Gerenciamento de Estacionamento."
-  - repo: "https://github.com/anajulia-v/analise-turnover.git"
-    arm: 1
+  - repo: "anajulia-v/analise-turnover"
+    arm: 0
     description: "Insights sobre desligamentos e retenção de talentos."
 
 
