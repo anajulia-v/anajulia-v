@@ -10,11 +10,11 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<details>
+<!-- <details>
 <summary><strong>More about me</strong></summary>
 
 <br/>
@@ -39,7 +39,7 @@ Passionate about distributed systems, developer experience, and the open-source 
 **Currently at** Stellar Labs — San Francisco, CA
 </details>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <a href="mailto:nyx@stellarlabs.dev">
