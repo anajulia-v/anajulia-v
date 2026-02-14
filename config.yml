@@ -16,6 +16,9 @@ username: anajulia-v
 profile:
   name: "Ana Júlia"
   tagline: "Systems Analysis Student | Data Enthusiast"
+  company: ""
+  location: ""
+  bio: 
   philosophy: '"Technology is a tool to understand and transform the world."'
 
 # Social links displayed at the bottom of the profile
