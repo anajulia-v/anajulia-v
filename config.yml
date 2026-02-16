@@ -14,7 +14,7 @@ username: anajulia-v
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Ana Júlia"
+  name: "Hi! I'm Ana Júlia"
   tagline: "Systems Analysis Student | Data Enthusiast"
   company: ""
   location: ""
@@ -59,7 +59,7 @@ projects:
   - repo: "anajulia-v/SpotOn"
     arm: 2
     description: "Sistema de Gerenciamento de Estacionamento."
-  - repo: "anajulia-v/analise-turnover"
+  - repo: "anajulia-v/AnaliseTurnover"
     arm: 0
     description: "Insights sobre desligamentos e retenção de talentos."
 
