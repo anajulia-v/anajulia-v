@@ -4,11 +4,11 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-<br/> -->
+<br/>
 
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
@@ -37,9 +37,9 @@ Passionate about distributed systems, developer experience, and the open-source 
 
 <div align="center">
   <a href="mailto:anajuliavieira2426@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-080c14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080c14" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/anajulia-v">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-080c14?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080c14" alt="LinkedIn"/>
   </a>
 </div>
